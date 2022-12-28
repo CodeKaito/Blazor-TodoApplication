@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodingSimplified.ToDoApplication.props" />
+</Project>
